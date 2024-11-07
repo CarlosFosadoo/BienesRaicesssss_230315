@@ -1,0 +1,30 @@
+{
+  "name": "mx.edu.utxj.awos.bienes-raices",
+  "version": "1.0.0",
+  "description": "proyecto de clase para la unidad 2 ,de la asignatur AWOS utilizando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosFosadoo/BienesRaicesssss_230315.git"
+  },
+  "keywords": [
+    "MVC",
+    "Express",
+    "Sequielize",
+    "MYAQL",
+    "Tailwind",
+    "Nodemon",
+    "NodeJS",
+    "Mailtrap",
+    "JWT"
+  ],
+  "author": "Carlos Isaac Fosado Escudero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosFosadoo/BienesRaicesssss_230315/issues"
+  },
+  "homepage": "https://github.com/CarlosFosadoo/BienesRaicesssss_230315#readme"
+}
